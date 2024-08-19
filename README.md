@@ -1,0 +1,1 @@
+# Yandex-Games-SDK-Scratch
