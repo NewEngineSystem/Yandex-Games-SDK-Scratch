@@ -1,6 +1,8 @@
 # YandexGamesSDK
 Расширение Yandex Games SDK для PenguinMod. Не работает в режиме Sandboxed.
 
+![IMAGE](https://avatars.githubusercontent.com/u/173352914?s=400&u=1935722840416725635691f6d22c6ec80d0d9951&v=4)
+
 #### Плюсы:
  + Маленький билд
  + Это PenguinMod (быстрый, компилируемый мод TurboWarp)
