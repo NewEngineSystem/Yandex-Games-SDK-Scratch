@@ -6,7 +6,7 @@
 #### Плюсы:
  + Маленький билд
  + Это PenguinMod (быстрый, компилируемый мод Scratch)
- + Это бесплатно (поэтому поблагодарите автора по пункту 7)
+ + Это бесплатно (поэтому пункт 9)
 
 ## Как начать использовать?
 1. Заходим по ссылке https://raw.githubusercontent.com/NewEngineSystem/Yandex-Games-SDK-Scratch/main/plugin.js и копируем код
