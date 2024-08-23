@@ -2,7 +2,7 @@
   'use strict';
   class YaGamesSDKExtension {
     getInfo() {
-      console.log("Dreep Community Game SDK Extension");
+      console.log("NES Games SDK Extension");
       return {
         id: 'yagames',
         name: 'Yandex Games SDK',
