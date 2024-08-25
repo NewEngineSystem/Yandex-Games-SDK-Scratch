@@ -11,7 +11,7 @@
 ## Как начать использовать?
 1. Заходим по ссылке https://raw.githubusercontent.com/NewEngineSystem/Yandex-Games-SDK-Scratch/main/plugin.js и копируем код
 2. Заходим в PenguinMod (https://studio.penguinmod.com/editor.html)
-3. Жмём кнопку эту кнопку:
+3. Жмём эту кнопку:
 4. <img src="https://raw.githubusercontent.com/NewEngineSystem/Yandex-Games-SDK-Scratch/main/extension%2B.png" 
  alt="IMAGE" width="100"/>
 5. Ищем такое расширение:
